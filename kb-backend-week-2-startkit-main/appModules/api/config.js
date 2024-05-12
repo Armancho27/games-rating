@@ -1,6 +1,6 @@
-export const BASE_URL = 'https://api-code-2.practicum-team.ru';
+const BASE_URL = 'https://api-code-2.practicum-team.ru';
 
-export const endpoints = {
+const endpoints = {
     games: `${BASE_URL}/games`,
 };
 
